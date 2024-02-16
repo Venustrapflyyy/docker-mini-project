@@ -4,5 +4,3 @@
 - Name these directories whatever you like.
 
 ## Steps 
-- I logged into my vagrant machine and ran `sudo apt update`
-- 
